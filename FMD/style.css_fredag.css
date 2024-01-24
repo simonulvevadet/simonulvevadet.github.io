@@ -1,0 +1,40 @@
+
+body {
+    background-color: #EFEBCE;
+    
+    
+  }
+
+p{
+    font-size:100%
+    
+}
+
+h1{
+    
+ font-family:sans-serif;   
+}
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;}
+
+.topnav {
+    display: flex;
+  background-color:#EFEBCE;
+  overflow: hidden;
+  justify-content: center;
+}
+
+
+.topnav a {
+    color: #5100ad;
+    text-align: centerl;
+    padding: 14px 16px;
+    font-size: 23px;
+    font-family: sans-serif;
+}
+
+footer{background-color: #A3A380;}
+h1{
+    background-color: #A3A380;
+}
+.bildetekst{display: flex;}

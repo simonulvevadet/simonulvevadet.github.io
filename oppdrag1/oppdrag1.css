@@ -1,0 +1,75 @@
+
+head{font-size:200%}
+
+
+body {
+    background-color: #94BEE6;
+    font-size: 150%;
+    text-align: center;
+    
+  }
+  
+
+
+
+
+h1, h2{
+    
+ font-family:century gothic;
+ background-color: #94BEE6;   
+}
+p{font-family:calibri;
+text-align: center;}
+
+.topnav {
+    display: flex;
+  background-color:#94BEE6;
+  overflow: hidden;
+  justify-content: center;
+}
+
+
+.topnav a {
+    color: #ffffff;
+    text-align: centerl;
+    padding: 14px 16px;
+    font-size: 23px;
+    font-family:century gothic;
+}
+
+footer{background-color: #ffffff;}
+    
+
+.bildetekst{display: flex;}
+
+
+
+.topnav {
+  background-color: #000000;
+  overflow: hidden;
+}
+
+
+
+
+.topnav a:hover {
+  background-color:#94BEE6;
+  color:#000000;
+}
+
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+.navbar a {
+  float: left;
+  display: block;
+  color:#94BEE6;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
